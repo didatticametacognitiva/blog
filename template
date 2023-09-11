@@ -1,0 +1,7 @@
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="img/1.jpg">
+      <img src="img/1.jpg" width="600" height="400">
+    </a>
+  </div>
+</div>
